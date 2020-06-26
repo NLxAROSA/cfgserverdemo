@@ -1,0 +1,5 @@
+---
+applications:
+  - name: cfgserverdemo
+    random-route: true
+    path: target/cfgserverdemo-0.0.1-SNAPSHOT.jar
